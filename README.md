@@ -1,0 +1,2 @@
+# jittor-Ultraman-ConditionalGAN_MINST
+此工程为基于jittor框架的CGAN，可以指定生成特定的手写数字序列
